@@ -1,0 +1,11 @@
+D:\Sliit Projects\test 2\test2\test2\bin\Debug\test2.exe.config
+D:\Sliit Projects\test 2\test2\test2\bin\Debug\test2.exe
+D:\Sliit Projects\test 2\test2\test2\bin\Debug\test2.pdb
+D:\Sliit Projects\test 2\test2\test2\obj\Debug\test2.csproj.AssemblyReference.cache
+D:\Sliit Projects\test 2\test2\test2\obj\Debug\test2.csproj.SuggestedBindingRedirects.cache
+D:\Sliit Projects\test 2\test2\test2\obj\Debug\test2.Form1.resources
+D:\Sliit Projects\test 2\test2\test2\obj\Debug\test2.Properties.Resources.resources
+D:\Sliit Projects\test 2\test2\test2\obj\Debug\test2.csproj.GenerateResource.cache
+D:\Sliit Projects\test 2\test2\test2\obj\Debug\test2.csproj.CoreCompileInputs.cache
+D:\Sliit Projects\test 2\test2\test2\obj\Debug\test2.exe
+D:\Sliit Projects\test 2\test2\test2\obj\Debug\test2.pdb
